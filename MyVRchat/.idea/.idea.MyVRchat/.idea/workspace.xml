@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c2f81d3-f3f7-46ce-bde1-99a7f180f45e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/HTC.UnityPlugin/StereoRendering/Scripts/DeviceType.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <marker date="1559081231431" expanded="true" signature="145:1876" ph="{...}" />
+                <marker date="1559081231431" expanded="true" signature="285:1874" ph="{...}" />
+                <marker date="1559081231431" expanded="true" signature="334:1045" ph="{...}" />
+                <marker date="1559081231431" expanded="true" signature="826:894" ph="{...}" />
+                <marker date="1559081231431" expanded="true" signature="938:1002" ph="{...}" />
+                <marker date="1559081231431" expanded="true" signature="1122:1739" ph="{...}" />
+                <marker date="1559081231431" expanded="true" signature="1805:1868" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/HTC.UnityPlugin/StereoRendering/Scripts/DeviceType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Editor/SteamVR_UnitySettingsWindow.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SteamVR/Editor/SteamVR_UnitySettingsWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/HTC.UnityPlugin/StereoRendering/Scripts/DeviceType.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-42" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c2f81d3-f3f7-46ce-bde1-99a7f180f45e" name="Default Changelist" comment="" />
+      <created>1559080632947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559080632947</updated>
+      <workItem from="1559080635724" duration="101000" />
+      <workItem from="1559081150301" duration="436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="537000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="13" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Unity" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="7" />
+      <window_info anchor="right" id="Errors In Solution" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/SteamVR/Editor/SteamVR_UnitySettingsWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1559080727829" expanded="true" signature="0:241" ph="/* ======= Copyright (c) Valve Corporation, All rights reserved. =============== ... */" />
+            <marker date="1559080727829" expanded="false" signature="249:297" ph="..." />
+            <marker date="1559080727829" expanded="true" signature="317:27905" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="402:27903" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="2900:2968" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="2998:6528" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="5610:5809" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="5864:5965" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="6009:6469" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="6283:6455" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="6595:6861" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="6890:27897" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="7571:8461" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="7874:8205" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="8298:8403" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="9547:10058" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="9799:9883" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="9950:10023" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="11207:12073" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="11597:11811" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="11904:12015" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="12218:12896" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="12518:12636" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="12729:12838" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="13065:13791" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="13389:13523" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="13616:13733" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="13936:14614" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="14236:14354" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="14447:14556" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="14928:15870" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="15375:15611" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="15704:15812" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="16027:16729" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="16339:16465" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="16558:16671" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="17753:18433" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="18070:18178" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="18271:18375" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="18566:19220" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="18854:18964" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="19057:19162" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="20070:21040" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="21233:27746" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="21299:24405" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="22684:22914" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="24458:27732" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="24589:27714" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="25348:25549" ph="{...}" />
+            <marker date="1559080727829" expanded="true" signature="27794:27847" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/HTC.UnityPlugin/StereoRendering/Scripts/DeviceType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <marker date="1559081231431" expanded="true" signature="145:1876" ph="{...}" />
+            <marker date="1559081231431" expanded="true" signature="285:1874" ph="{...}" />
+            <marker date="1559081231431" expanded="true" signature="334:1045" ph="{...}" />
+            <marker date="1559081231431" expanded="true" signature="826:894" ph="{...}" />
+            <marker date="1559081231431" expanded="true" signature="938:1002" ph="{...}" />
+            <marker date="1559081231431" expanded="true" signature="1122:1739" ph="{...}" />
+            <marker date="1559081231431" expanded="true" signature="1805:1868" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
