@@ -7,17 +7,13 @@ public class RandomBlending : StateMachineBehaviour
     [SerializeField] GameObject character;
     public string parameterName;
     private float randomBlend;
-    private Animator animator;
-    private void Awake()
-    {
-        animator = character.GetComponent<Animator>();
-    }
-    void OnStateEnter()
+
+    override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         randomBlend = Random.value;
         animator.SetFloat(parameterName, randomBlend);
     }
-    void OnStateUpdate()
+    override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         randomBlend = Random.value;
         animator.SetFloat(parameterName, randomBlend);

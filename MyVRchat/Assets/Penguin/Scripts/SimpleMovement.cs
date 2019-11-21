@@ -1,54 +1,53 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class SimpleMovement : MonoBehaviour
 {
     Animator anim;
-    UnityEngine.AI.NavMeshAgent agent;
+    NavMeshAgent agent;
     LookAt lookAt;
     
     void Start()
     {
         anim = GetComponent<Animator>();
-        agent = GetComponent<UnityEngine.AI.NavMeshAgent>();
+        agent = GetComponent<NavMeshAgent>();
         agent.updatePosition = false;
         lookAt = GetComponent<LookAt>();
     }
-
-    float maxDX = 0;
-    float maxDY = 0;
 
     void Update()
     {
         Vector3 deltaPosition = agent.nextPosition - transform.position;
         float dx = Vector3.Dot(transform.forward, deltaPosition);
         float dy = Vector3.Dot(transform.right, deltaPosition);
-        maxDX = Mathf.Max(maxDX, dx);
-        maxDY = Mathf.Max(maxDY, dy);
         Vector2 movement = new Vector2(dx, dy);
+        Vector2 velocity = Vector2.zero;
 
-        Vector2 velocity = movement / Time.deltaTime;
-        float blend = 0;
-        bool shouldMove = (velocity.magnitude >= 0.01);
+        if (Time.deltaTime > 1e-5)
+        {
+            velocity = movement / Time.deltaTime;
+        }
+        float animTurnParam = 0;
+        bool isMove = (velocity.magnitude >= 0.01);
 
         //если агент хочет повернуться, то пусть он повернётся на месте, а не в ри перемещении
-        if (shouldMove && Mathf.Abs(velocity.y) > 0.1)
+        if (isMove && Mathf.Abs(velocity.y) > 0.1)
         {
             agent.nextPosition = transform.position;
             if (velocity.y < 0)
-                blend = 0;
-            else blend = 1;
-                blend = Mathf.Max(blend, -1);
+                animTurnParam = 1f;//поворот налево
+            else animTurnParam = -1f;//поворот направо
         }
-        else if (shouldMove)
+        else if (isMove)
         {
             transform.position = agent.nextPosition;
-            blend = 0.5f;
+            animTurnParam = 0f;//движение прямо
         }
 
-        anim.SetBool("isMove", shouldMove);
-        anim.SetFloat("blend", blend);
+        anim.SetBool("isMove", isMove);
+        anim.SetFloat("turn", animTurnParam);
 
         if (lookAt)
             lookAt.lookAtTargetPosition = agent.steeringTarget + transform.forward;
